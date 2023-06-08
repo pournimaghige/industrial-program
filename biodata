@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>
+        Biodata
+    </title>
+<body>
+    <img src="Pournima.jpg" align="right" width="20%" height="20%">
+    <h1 style=""color:red">Biodata</h1>
+    <hr>
+    <b>name:</b>Pournima Sanjay Ghige<br>
+    <p><b>Address:</b>Yawat Dist.Pune<br></p>
+    <b>Objective</b><br>
+    <p>I am nice,cheerful and kind person.I am always ready to learn new things.I am always thankful to others foe whatever they have done for me.My aim is to become full stack developer.I am computer engineer student.</p>
+    <b>Hobbies</b><br>
+    <ol>
+        <li>Reading</li>
+        <li>Listening song</li>
+        <li>Learning new things</li>
+        <li>Travelling</li>
+        <li>Playing games</li>
+        </ol>
+        <hr>
+        <b> Educational Qualification</b><br>
+        <table border="1">
+            <tr>
+                <td>std</td>
+                <td>sem</td>
+                <td>university</td>
+                <td>percentage</td>
+                <td>class</td>
+                </tr>
+                <tr>
+                    <td colspan="2">SSC</td>
+                    <td>pune</td>
+                    <td>90</td>
+                    <td>Distinction</td>
+                </tr>
+                <tr>
+                    <td colspan ="2">HSC</td>
+                    <td>Pune</td>
+                    <td>95</td>
+                    <td>Distinction</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">FYCO</td>
+                    <td>First</td>
+                    <td>Pune</td>
+                    <td>82</td>
+                    <td>Distinction</td>
+                </tr>
+                <tr>
+                    <td>second</td>
+                    <td>Pune</td>
+                    <td>70</td>
+                    <td>First class</td>
+                </tr>
+                </table>
+                </body>
+                </head>
+                </html>
