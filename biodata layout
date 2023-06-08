@@ -1,0 +1,85 @@
+<html>
+<head>
+    <title>
+        Layout
+    </title>
+    <body>
+        <table border="1" style="width:100%">
+            <tr>
+                <td>
+                    <img src="Pournima.jpg"width="100"height="100">
+                </td>
+                <td>
+                <b>Name:</b>Pournima Sanjay Ghige<br>
+                <b>Age:</b>19<br>
+                <b>Gender</b>Female
+                </td>
+                </tr>
+                <tr>
+                    <td><br><b>Contact no:</b><br>xxxx000000<br><br><b>Gmail:</b><br>xyz@gmail.com<br><br><b>Address:</b>Yawat<br>Dist.Pune</td></td>
+                    <td><b>Objectives:</b>I am very cheerful and kind person I like to be always helpful<br> I am always ready to learn new things
+               <br>
+               <br>
+               <b>Hobbies:</b>
+               <ol type="A">
+                <li>Reading</li>
+                <li>Coding</li>
+                <li>Singing</li>
+                </ol>
+                </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br>
+                        <b>Educational Qualification:</b>
+                        <br>
+                        <table border="1">
+                            <tr>
+                                <th>Std</th>
+                                <th>Semester</th>
+                                <th>University</th>
+                                <th>Percentage</th>
+                                <th>Class</th>
+                            </tr>
+                            <tr>
+                                <td colspan="2">HSC</td>
+                                <td>Pune</td>
+                                <td>74</td>
+                                <td>first class</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2"></td>
+                                <td>first</td>
+                                <td>Pune</td>
+                                <td>82</td>
+                                <td>Distinction</td>
+                            </tr>
+                            <tr>
+                                <td>second</td>
+                                <td>Pune</td>
+                                <td>70</td>
+                                <td>first class</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">SYCO</td>
+                                <td>first</td>
+                                <td>Pune</td>
+                                <td>85</td>
+                                <td>Distinction</td>
+                                </tr>
+                                <tr>
+
+                                    <td>Second</td>
+                                    <td>Pune</td>
+                                    <td>90</td>
+                                    <td>Distinction</td>
+                                </tr>
+                                </table>
+                    </td>
+                </tr>
+            </td>
+            </table>
+            </body>
+            </head>
+            </html>
+
