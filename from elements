@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title> From Elements</title>
+</head>
+<body>
+    <from action="">
+        Username<input type="text" name="Username"><br><br>
+        Password<input type="Password" name="Password"><br><br>
+        <input type="button" value="Login"><br><br>
+
+        Name<input type="text" name="Username"><br><br>
+        Class: <input type="radio" name="class" value="FYCO">FYCO
+        <input type="radio" name="class" value="SYCO">SYCO
+        <input type="radio" name="class" value="TYCO">TYCO<br>
+
+        Language Known: <input type="checkbox" name="lang" value="1">Marathi<br>
+        <input type="checkbox" name="lang" value="2">Hindi
+        <input type="checkbox" name="lang" value="3">English<br>
+
+        Elective: <input type="radio" name="ele">Java
+        <input type="radio" name="ele">PHP
+        <input type="radio" name="ele">Python<br><br>
+
+        <select name ="Operating System">
+            <option value="1">Windows</option>
+            <option value="2">Linux</option>
+            <option value="3">Mac</option>
+        </select>
+        <br>
+        
+        <input type="date" name="sdate"><br><br>
+        <button>Submit</button>
+        </from>
+        </body>
+        </html>
